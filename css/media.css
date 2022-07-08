@@ -1,0 +1,23 @@
+@media (max-width: 991px) {
+    .header__nav-link{
+        margin-top: 5px;
+        text-align: center;
+    }
+    
+    .header__button-link{
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header__ru{
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 1110px) {
+    .row{
+        margin-right: -83px;
+    }
+}
